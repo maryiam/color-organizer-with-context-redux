@@ -5,7 +5,7 @@ This application named `color-organizer` is a simple app that handles colors man
 This version uses the Redux to manage the data flow, and also react context API to integrate Redux store with React components. See `color-organizer-with-state` and `color-organizer-with-context-redux` for differents ways of data management. 
 
 ## Online Demo 
-You can test the `color-organizer` application available here [demo link](https://maryiam.github.io/color-organizer-with-state/) 
+You can test the `color-organizer` application available here [demo link](https://maryiam.github.io/color-organizer-with-context-redux/) 
 
 ## Available commands
 
